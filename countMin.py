@@ -32,4 +32,4 @@ def countMin(string):
             i+=1
         
     return app[0][-1]
-print(countMin('abcd'))
+#print(countMin('abcd'))
