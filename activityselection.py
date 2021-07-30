@@ -24,10 +24,10 @@ def activityselection(start,end,N):
                 total_act=i
         return total_count
         
-Start=[2,1]
-End=[2,2]
-n=2
-print(activityselection(Start,End,n))
+#Start=[2,1]
+#End=[2,2]
+#n=2
+#print(activityselection(Start,End,n))
 
 
 
